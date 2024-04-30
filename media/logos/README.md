@@ -1,3 +1,5 @@
+<img src="/.github/images/LogosBanner.png"/>
+
 <p align="center">
     <br />
     🖼️ Logos
@@ -10,7 +12,7 @@ Here you will find the logos used at Cyfrin and in our ecosystem.
 <p align="center">
     <br />
     <a href="https://cyfrin.io/">
-        <img src="/.github/images/poweredbycyfrinblue.png" width="145" alt=""/></a>
+        <img src="<img src=".github/images/Banner.png">" width="145" alt=""/></a>
     <br />
 </p>
 
@@ -20,39 +22,35 @@ Logos for the Cyfrin brand ecosystem available, including: [CodeHawks](./codehaw
 
 ### Logos
 
-|           | Dark Version                                        | Light Version                                         | Color Version                                         |
-| --------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| Full Logo | [Image](./cyfrin/dark/CyfrinLogoFull-Dark.png)      | [Image](./cyfrin/light/CyfrinLogoFull-Light.png)      | [Image](./cyfrin/color/CyfrinLogoFull-Color.png)      |
-| Mark      | [Image](./cyfrin/dark/Cyfrin%20Mark%20-%20Dark.png) | [Image](./cyfrin/light/Cyfrin%20Mark%20-%20Light.png) | [Image](./cyfrin/color/Cyfrin%20Mark%20-%20Color.png) |
+|           | Dark Version                                    | Light Version                                     | Color Version                                     |
+| --------- | ----------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| Full Logo | ![](./cyfrin/dark/CyfrinLogoFull-Dark.png)      | ![](./cyfrin/light/CyfrinLogoFull-Light.png)      | ![](./cyfrin/color/CyfrinLogoFull-Color.png)      |
+| Mark      | ![](./cyfrin/dark/Cyfrin%20Mark%20-%20Dark.png) | ![](./cyfrin/light/Cyfrin%20Mark%20-%20Light.png) | ![](./cyfrin/color/Cyfrin%20Mark%20-%20Color.png) |
 
 ## 🦅 CodeHawks
 
-### Logos
-
-|           | Dark Version                                                     | Light Version                                                      | Color Version                                                      |
-| --------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| Full Logo | [Image](./codehawks/dark/CodeHawks%20Logo%20Full%20-%20Dark.png) | [Image](./codehawks/light/CodeHawks%20Logo%20Full%20-%20Light.png) | [Image](./codehawks/color/CodeHawks%20Logo%20Full%20-%20Color.png) |
-| Mark      | [Image](./codehawks/dark/CodeHawks%20Mark%20-%20Dark.png)        | [Image](./codehawks/light/CodeHawks%20Mark%20-%20Light.png)        | [Image](./codehawks/color/CodeHawks%20Mark%20-%20Color.png)        |
+|           | Dark Version                                                 | Light Version                                                  | Color Version                                                  |
+| --------- | ------------------------------------------------------------ | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| Full Logo | ![](./codehawks/dark/CodeHawks%20Logo%20Full%20-%20Dark.png) | ![](./codehawks/light/CodeHawks%20Logo%20Full%20-%20Light.png) | ![](./codehawks/color/CodeHawks%20Logo%20Full%20-%20Color.png) |
+| Mark      | ![](./codehawks/dark/CodeHawks%20Mark%20-%20Dark.png)        | ![](./codehawks/light/CodeHawks%20Mark%20-%20Light.png)        | ![](./codehawks/color/CodeHawks%20Mark%20-%20Color.png)        |
 
 ## 🎓 Updraft
 
-### Logos
-
-|           | Dark Version                                                 | Light Version                                                  | Color Version |
-| --------- | ------------------------------------------------------------ | -------------------------------------------------------------- | ------------- |
-| Full Logo | [Image](./updraft/dark/Updraft%20Logo%20Full%20-%20Dark.png) | [Image](./updraft/light/Updraft%20Logo%20Full%20-%20Light.png) | N/A           |
-| Mark      | [Image](./updraft/dark/Updraft%20Mark%20-%20Dark.png)        | [Image](./updraft/light/Updraft%20Mark%20-%20Light.png)        | N/A           |
+|           | Dark Version                                             | Light Version                                              | Color Version |
+| --------- | -------------------------------------------------------- | ---------------------------------------------------------- | ------------- |
+| Full Logo | ![](./updraft/dark/Updraft%20Logo%20Full%20-%20Dark.png) | ![](./updraft/light/Updraft%20Logo%20Full%20-%20Light.png) | N/A           |
+| Mark      | ![](./updraft/dark/Updraft%20Mark%20-%20Dark.png)        | ![](./updraft/light/Updraft%20Mark%20-%20Light.png)        | N/A           |
 
 ## 📚 Solodit
 
 ### Logos
 
-|           | Dark Version                                                 | Light Version                                                  | Color Version                                                  |
-| --------- | ------------------------------------------------------------ | -------------------------------------------------------------- | -------------------------------------------------------------- |
-| Full Logo | [Image](./solodit/dark/Solodit%20Logo%20Full%20-%20Dark.png) | [Image](./solodit/light/Solodit%20Logo%20Full%20-%20Light.png) | [Image](./solodit/color/Solodit%20Logo%20Full%20-%20Color.png) |
-| Mark      | [Image](./solodit/color/Solodit%20Mark%20-%Light.png)        | [Image](./solodit/light/Solodit%20Mark%20-%20Light.png)        | [Image](./solodit/color/Solodit%20Mark%20-%20Color.png)        |
+|           | Dark Version                                             | Light Version                                              | Color Version                                              |
+| --------- | -------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| Full Logo | ![](./solodit/dark/Solodit%20Logo%20Full%20-%20Dark.png) | ![](./solodit/light/Solodit%20Logo%20Full%20-%20Light.png) | ![](./solodit/color/Solodit%20Logo%20Full%20-%20Color.png) |
+| Mark      | ![](./solodit/color/Solodit%20Mark%20-%Light.png)        | ![](./solodit/light/Solodit%20Mark%20-%20Light.png)        | ![](./solodit/color/Solodit%20Mark%20-%20Color.png)        |
 
-<p align="center">
+<p padding-top="20px" align="center">
 <a href="https://docs.cyfrin.io">Docs</a>
 <a href="https://discord.gg/cyfrin">Get support</a>
 <a href="https://cyfrin.io">Website</a>

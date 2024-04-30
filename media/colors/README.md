@@ -1,3 +1,5 @@
+<img src="/.github/images/ColorsBanner.png">
+
 <p align="center">
     <br />
     🎨 Colours
@@ -10,7 +12,7 @@ Here you will find the colour palettes used at Cyfrin and in our ecosystem.
 <p align="center">
     <br />
     <a href="https://cyfrin.io/">
-        <img src="/.github/images/poweredbycyfrinblue.png" width="145" alt=""/></a>
+        <img src="/.github/images/" width="145" alt=""/></a>
     <br />
 </p>
 
@@ -18,7 +20,11 @@ Here you will find the colour palettes used at Cyfrin and in our ecosystem.
 
 Tailwind variables for the Cyfrin brand colours are available in the [here](media/colors/tailwind.config.js), the css variables are available [here](media/colors/styles.css).
 
+Cyfrin uses a universal colour palette for error, success, warning, and information messages, as well as text colours. The colours are used to provide a consistent user experience across all our products and services. These colours are used universally between dark and light themes.
+
 ### Brand Colours
+
+The brand colours used at Cyfrin are as follows:
 
 <p
 flex-direction="row"
@@ -42,6 +48,8 @@ gap="10px"
 
 ### Text Colours
 
+The text colours across the ecosystem are uniform and are as follows:
+
 <p flex-direction="row" align="center" justify="center" gap="10px">
 <img valign="middle" src="https://readme-swatches.vercel.app/101828?size=60" alt="text-primary" />
 <img valign="middle" src="https://readme-swatches.vercel.app/344054?size=60" alt="text-secondary" />
@@ -49,8 +57,6 @@ gap="10px"
 </p>
 
 ## 🦅 CodeHawks
-
-### Brand Colours
 
 <p
 flex-direction="row"
@@ -74,8 +80,6 @@ gap="10px"
 
 ## 🎓 Updraft
 
-### Brand Colours
-
 <p
 flex-direction="row"
 align="center"
@@ -98,8 +102,6 @@ gap="10px"
 
 ## 📚 Solodit
 
-### Brand Colours
-
 <p
 flex-direction="row"
 align="center"
@@ -120,7 +122,7 @@ gap="10px"
 <img valign="middle" src="https://readme-swatches.vercel.app/2C1C5F?size=60" alt="brand-950" />
 </p>
 
-<p align="center">
+<p padding-top="20px" align="center">
 <a href="https://docs.cyfrin.io">Docs</a>
 <a href="https://discord.gg/cyfrin">Get support</a>
 <a href="https://cyfrin.io">Website</a>
