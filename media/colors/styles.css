@@ -1,0 +1,57 @@
+:root {
+  /* Cyfrin */
+  --cyfrin-brand-25: "#F5F8FF";
+  --cyfrin-brand-50: "#EFF4FF";
+  --cyfrin-brand-100: "#D1E0FF";
+  --cyfrin-brand-200: "#B2CCFF";
+  --cyfrin-brand-300: "#84ADFF";
+  --cyfrin-brand-400: "#528BFF";
+  --cyfrin-brand-500: "#2970FF";
+  --cyfrin-brand-600: "#155EEF";
+  --cyfrin-brand-700: "#004EEB";
+  --cyfrin-brand-800: "#0040C1";
+  --cyfrin-brand-900: "#00359E";
+  --cyfrin-brand-950: "#002266";
+
+  /* CodeHawks */
+  --codehawks-brand-25: "#FFF9F5";
+  --codehawks-brand-50: "#FFF4ED";
+  --codehawks-brand-100: "#FFE6D5";
+  --codehawks-brand-200: "#FFD6AE";
+  --codehawks-brand-300: "#FF9C66";
+  --codehawks-brand-400: "#FF692E";
+  --codehawks-brand-500: "#FF4405";
+  --codehawks-brand-600: "#E62E05";
+  --codehawks-brand-700: "#BC1B06";
+  --codehawks-brand-800: "#97180C";
+  --codehawks-brand-900: "#771A0D";
+  --codehawks-brand-950: "#57130A";
+
+  /* Solodit */
+  --solodit-brand-25: "#FCFAFF";
+  --solodit-brand-50: "#F9F5FF";
+  --solodit-brand-100: "#F4EBFF";
+  --solodit-brand-200: "#E9D7FE";
+  --solodit-brand-300: "#D6BBFB";
+  --solodit-brand-400: "#B692F6";
+  --solodit-brand-500: "#9E77ED";
+  --solodit-brand-600: "#7F56D9";
+  --solodit-brand-700: "#6941C6";
+  --solodit-brand-800: "#53389E";
+  --solodit-brand-900: "#42307D";
+  --solodit-brand-950: "#2C1C5F";
+
+  /* Updraft */
+  --updraft-brand-25: "#F5F8FF";
+  --updraft-brand-50: "#EFF4FF";
+  --updraft-brand-100: "#D1E0FF";
+  --updraft-brand-200: "#B2CCFF";
+  --updraft-brand-300: "#84ADFF";
+  --updraft-brand-400: "#528BFF";
+  --updraft-brand-500: "#2970FF";
+  --updraft-brand-600: "#155EEF";
+  --updraft-brand-700: "#004EEB";
+  --updraft-brand-800: "#0040C1";
+  --updraft-brand-900: "#00359E";
+  --updraft-brand-950: "#002266";
+}
