@@ -1,10 +1,10 @@
 <img src="/.github/images/LogosBanner.png"/>
 
-<p align="center">
+<h1 align="center">
     <br />
-    🖼️ Logos
+     🖼️ Logos
     <br />
-</p>
+</h1>
 <p align="center">
 <strong>
 Here you will find the logos used at Cyfrin and in our ecosystem.
@@ -12,7 +12,7 @@ Here you will find the logos used at Cyfrin and in our ecosystem.
 <p align="center">
     <br />
     <a href="https://cyfrin.io/">
-        <img src="<img src=".github/images/Banner.png">" width="145" alt=""/></a>
+        <img src="/.github/images/poweredbycyfrinblue.png">" width="145" alt="powered by cyfrin badge"/></a>
     <br />
 </p>
 

@@ -1,10 +1,10 @@
 <img src=".github/images/Banner.png">
 
-<p align="center">
+<h1 align="center">
     <br />
     📦 Cyfrin Brand Kit
     <br />
-</p>
+</h1>
 <p align="center">
 <strong>
 Welcome to the Cyfrin Brand Kit! Here you will find the logos, colours and brand guidelines used at Cyfrin and in our ecosystem.

@@ -1,10 +1,10 @@
 <img src="/.github/images/ColorsBanner.png">
 
-<p align="center">
+<h1 align="center">
     <br />
     🎨 Colours
     <br />
-</p>
+</h1>
 <p align="center">
 <strong>
 Here you will find the colour palettes used at Cyfrin and in our ecosystem. 
@@ -12,7 +12,7 @@ Here you will find the colour palettes used at Cyfrin and in our ecosystem.
 <p align="center">
     <br />
     <a href="https://cyfrin.io/">
-        <img src="/.github/images/" width="145" alt=""/></a>
+        <img src="/.github/images/poweredbycyfrinblue.png" width="145" alt="powered by cyfrin badge"/></a>
     <br />
 </p>
 
