@@ -43,8 +43,6 @@ Logos for the Cyfrin brand ecosystem available, including: [CodeHawks](./codehaw
 
 ## 📚 Solodit
 
-### Logos
-
 |           | Dark Version                                             | Light Version                                              | Color Version                                              |
 | --------- | -------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
 | Full Logo | ![](./solodit/dark/Solodit%20Logo%20Full%20-%20Dark.png) | ![](./solodit/light/Solodit%20Logo%20Full%20-%20Light.png) | ![](./solodit/color/Solodit%20Logo%20Full%20-%20Color.png) |
