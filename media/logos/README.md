@@ -22,10 +22,10 @@ Logos for the Cyfrin brand ecosystem available, including: [CodeHawks](./codehaw
 
 ### Logos
 
-|           | Dark Version                                    | Light Version                                     | Color Version                                     |
-| --------- | ----------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| Full Logo | ![](./cyfrin/dark/CyfrinLogoFull-Dark.png)      | ![](./cyfrin/light/CyfrinLogoFull-Light.png)      | ![](./cyfrin/color/CyfrinLogoFull-Color.png)      |
-| Mark      | ![](./cyfrin/dark/Cyfrin%20Mark%20-%20Dark.png) | ![](./cyfrin/light/Cyfrin%20Mark%20-%20Light.png) | ![](./cyfrin/color/Cyfrin%20Mark%20-%20Color.png) |
+|           | Dark Version                                    | Light Version                                            | Color Version                                     |
+| --------- | ----------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------- |
+| Full Logo | ![](./cyfrin/dark/CyfrinLogoFull-Dark.png)      | ![](./cyfrin/light/Cyfrin%20Logo%20Full%20-%20Light.png) | ![](./cyfrin/color/CyfrinLogoFull-Color.png)      |
+| Mark      | ![](./cyfrin/dark/Cyfrin%20Mark%20-%20Dark.png) | ![](./cyfrin/light/Cyfrin%20Mark%20-%20Light.png)        | ![](./cyfrin/color/Cyfrin%20Mark%20-%20Color.png) |
 
 ## 🦅 CodeHawks
 
@@ -48,7 +48,7 @@ Logos for the Cyfrin brand ecosystem available, including: [CodeHawks](./codehaw
 |           | Dark Version                                             | Light Version                                              | Color Version                                              |
 | --------- | -------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
 | Full Logo | ![](./solodit/dark/Solodit%20Logo%20Full%20-%20Dark.png) | ![](./solodit/light/Solodit%20Logo%20Full%20-%20Light.png) | ![](./solodit/color/Solodit%20Logo%20Full%20-%20Color.png) |
-| Mark      | ![](./solodit/color/Solodit%20Mark%20-%Light.png)        | ![](./solodit/light/Solodit%20Mark%20-%20Light.png)        | ![](./solodit/color/Solodit%20Mark%20-%20Color.png)        |
+| Mark      | ![](./solodit/color/Solodit%20Mark%20-%Dark.png)         | ![](./solodit/light/Solodit%20Mark%20-%20Light.png)        | ![](./solodit/color/Solodit%20Mark%20-%20Color.png)        |
 
 <p padding-top="20px" align="center">
 <a href="https://docs.cyfrin.io">Docs</a>
