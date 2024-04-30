@@ -1,0 +1,30 @@
+name: Release Cyfrin Brandkit
+
+on:
+  push:
+    tags:
+      - "v[1]+.[0-0]+"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Zip Folder
+        run: cd media && cp && zip - Cyfrin_Brand_Kit.zip . && mv Cyfrin_Brand_Kit.zip ../
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          prerelease: false
+          files: Cyfrin_Brand_Kit.zip
+          generate_release_notes: true
+          body: |
+            ### This is a release of the Cyfrin Brand Kit, a collection of assets for use in Cyfrin projects.
