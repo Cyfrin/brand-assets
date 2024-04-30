@@ -11,8 +11,9 @@ Here you will find the logos used at Cyfrin and in our ecosystem.
 </strong></p>
 <p align="center">
     <br />
-    <a href="https://cyfrin.io/">
-        <img src="/.github/images/poweredbycyfrinblue.png">" width="145" alt="powered by cyfrin badge"/></a>
+        <a href="https://cyfrin.io/">
+            <img src="/.github/images/poweredbycyfrinblue.png" width="145" alt="powered by cyfrin badge"/>
+        </a>
     <br />
 </p>
 
