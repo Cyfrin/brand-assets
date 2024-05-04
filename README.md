@@ -40,7 +40,7 @@ Here is a table of all the 'Powered by Cyfrin' badges available:
 
 | Badge                                                  | Description         |
 | ------------------------------------------------------ | ------------------- |
-| ![Badge 1](./media/badges/Brand%20Badge.png)           | Blue Badge          |
+| ![Badge 1](./media/badges/Blue%20Badge.png)            | Blue Badge          |
 | ![Badge 2](./media/badges/Orange%20Badge.png)          | Orange Badge        |
 | ![Badge 3](./media/badges/Orange%20Border%20Badge.png) | Orange Border Badge |
 | ![Badge 4](./media/badges/Black%20Border%20Badge.png)  | Black Border Badge  |
