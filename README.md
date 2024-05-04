@@ -34,7 +34,19 @@ Tailwind variables for the Cyfrin brand colours are available in the [here](medi
 
 Logos for the Cyfrin brand ecosystem available, including: Cyfrin, CodeHawks, Updraft, and Solodit. The logos are available in dark, light, and colour versions. These can be found in the respective directories as well as in a [table](media/logos/README.md).
 
-<p align="center">
+# 🔰 Badges
+
+Here is a table of all the 'Powered by Cyfrin' badges available:
+
+| Badge                                                  | Description         |
+| ------------------------------------------------------ | ------------------- |
+| ![Badge 1](./media/badges/Brand%20Badge.png)           | Blue Badge          |
+| ![Badge 2](./media/badges/Orange%20Badge.png)          | Orange Badge        |
+| ![Badge 3](./media/badges/Orange%20Border%20Badge.png) | Orange Border Badge |
+| ![Badge 4](./media/badges/Black%20Border%20Badge.png)  | Black Border Badge  |
+| ![Badge 5](./media/badges/White%20Border%20Badge.png)  | White Border Badge  |
+
+<p align="center" gap="10px">
 <a href="https://docs.cyfrin.io">Docs</a>
 <a href="https://discord.gg/cyfrin">Get support</a>
 <a href="https://cyfrin.io">Website</a>
