@@ -1,4 +1,4 @@
-<img src="/.github/images/LogosBanner.png"/>
+<img src="/.github/images/LogosBanner1.png"/>
 
 <h1 align="center">
     <br />
