@@ -86,18 +86,18 @@ align="center"
 justify="center"
 gap="10px"
 >
-<img valign="middle" src="https://readme-swatches.vercel.app/F5FAFF?size=60" alt="brand-25" />
-<img valign="middle" src="https://readme-swatches.vercel.app/EFF8FF?size=60" alt="brand-50" />
-<img valign="middle" src="https://readme-swatches.vercel.app/D1E9FF?size=60" alt="brand-100" />
-<img valign="middle" src="https://readme-swatches.vercel.app/B2DDFF?size=60" alt="brand-200" />
-<img valign="middle" src="https://readme-swatches.vercel.app/84CAFF?size=60" alt="brand-300" />
-<img valign="middle" src="https://readme-swatches.vercel.app/53B1FD?size=60" alt="brand-400" />
-<img valign="middle" src="https://readme-swatches.vercel.app/2E90FA?size=60" alt="brand-500" />
-<img valign="middle" src="https://readme-swatches.vercel.app/1570EF?size=60" alt="brand-600" />
-<img valign="middle" src="https://readme-swatches.vercel.app/175CD3?size=60" alt="brand-700" />
-<img valign="middle" src="https://readme-swatches.vercel.app/1849A9?size=60" alt="brand-800" />
-<img valign="middle" src="https://readme-swatches.vercel.app/194185?size=60" alt="brand-900" />
-<img valign="middle" src="https://readme-swatches.vercel.app/102A56?size=60" alt="brand-950" />
+<img valign="middle" src="https://readme-swatches.vercel.app/FAFEF5?size=60" alt="brand-25" />
+<img valign="middle" src="https://readme-swatches.vercel.app/F3FEE7?size=60" alt="brand-50" />
+<img valign="middle" src="https://readme-swatches.vercel.app/E3FBCC?size=60" alt="brand-100" />
+<img valign="middle" src="https://readme-swatches.vercel.app/D0F8AB?size=60" alt="brand-200" />
+<img valign="middle" src="https://readme-swatches.vercel.app/A6EF67?size=60" alt="brand-300" />
+<img valign="middle" src="https://readme-swatches.vercel.app/85E13A?size=60" alt="brand-400" />
+<img valign="middle" src="https://readme-swatches.vercel.app/66C61C?size=60" alt="brand-500" />
+<img valign="middle" src="https://readme-swatches.vercel.app/4CA30D?size=60" alt="brand-600" />
+<img valign="middle" src="https://readme-swatches.vercel.app/3B7C0F?size=60" alt="brand-700" />
+<img valign="middle" src="https://readme-swatches.vercel.app/326212?size=60" alt="brand-800" />
+<img valign="middle" src="https://readme-swatches.vercel.app/2B5314?size=60" alt="brand-900" />
+<img valign="middle" src="https://readme-swatches.vercel.app/16280A?size=60" alt="brand-950" />
 </p>
 
 ## 📚 Solodit
