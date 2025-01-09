@@ -40,7 +40,7 @@ Logos for the Cyfrin brand ecosystem available, including: [CodeHawks](./codehaw
 |           | Dark Version                                             | Light Version                                              | Color Version |
 | --------- | -------------------------------------------------------- | ---------------------------------------------------------- | ------------- |
 | Full Logo | ![](./updraft/dark/Updraft%20Logo%20Full%20-%20Dark.png) | ![](./updraft/light/Updraft%20Logo%20Full%20-%20Light.png) | N/A           |
-| Mark      | ![](./updraft/dark/Updraft%20Mark%20-%20Dark.png)        | ![](./updraft/light/Updraft%20Mark%20-%20Light.png)        | N/A           |
+| Mark      | ![](./updraft/dark/Updraft%20Mark.png)        | ![](./updraft/light/Updraft%20Mark.png)        | N/A           |
 
 ## 📚 Solodit
 
