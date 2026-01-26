@@ -26,7 +26,7 @@ Logos for the Cyfrin brand ecosystem available, including: [CodeHawks](./codehaw
 |           | Dark Version                                    | Light Version                                            | Color Version                                     |
 | --------- | ----------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------- |
 | Full Logo | ![](./cyfrin/dark/CyfrinLogoFull-Dark.png)      | ![](./cyfrin/light/Cyfrin%20Logo%20Full%20-%20Light.png) | ![](./cyfrin/color/CyfrinLogoFull-Color.png)      |
-| Mark      | ![](./cyfrin/dark/Cyfrin%20Mark%20-%20Dark.png) | ![](./cyfrin/light/Cyfrin%20Mark%20-%20Light.png)        | ![](./cyfrin/color/Cyfrin%20Mark%20-%20Color.png) |
+| Mark      | ![](./cyfrin/dark/Cyfrin%20Mark%20-%20Dark.png) | ![](./cyfrin/light/Cyfrin%20Mark%20-%20Light.png)        | ![](./cyfrin/color/Cyfrin%20Mark%20-%20Color.png) [▷ Dark variant](./cyfrin/color/CyfrinLogoFull%20-%20Color%20Dark.png) |
 
 ## 🦅 CodeHawks
 
