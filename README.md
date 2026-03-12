@@ -16,6 +16,10 @@ Welcome to the Cyfrin Brand Kit! Here you will find the logos, colours and brand
     <br />
 </p>
 
+# 📚 Brand Guidelines
+
+The official brand guidelines for Cyfrin and its ecosystem are available [here](https://www.cyfrin.io/branding).
+
 # 🎨 Colors
 
 Cyfrin uses a universal colour palette for error, success, warning, and information messages, as well as text colours. The colours are used to provide a consistent user experience across all our products and services. These colours are used universally between dark and light themes.
