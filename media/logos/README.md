@@ -19,7 +19,7 @@ Here you will find the logos used at Cyfrin and in our ecosystem.
 
 # 🛡️ Cyfrin
 
-Logos for the Cyfrin brand ecosystem available, including: [CodeHawks](./codehawks/), [Updraft](./updraft/), [Solodit](./solodit/), and [Battlechain](./battlechain/).
+Logos for the Cyfrin brand ecosystem available, including: [CodeHawks](./codehawks/), [Updraft](./updraft/), [Solodit](./solodit/), [Battlechain](./battlechain/), and [Cygent](./cygent/).
 
 ### Logos
 
@@ -56,6 +56,13 @@ Logos for the Cyfrin brand ecosystem available, including: [CodeHawks](./codehaw
 | Full Logo | ![](./battlechain/dark/Battlechain%20Logo%20Full%20-%20Dark.png) | ![](./battlechain/light/Battlechain%20Logo%20Full%20-%20Light.png) | ![](./battlechain/color/Battlechain%20Logo%20Full%20-%20Color.png) [▷ Dark variant](./battlechain/color/Battlechain%20Logo%20Full%20-%20Color%20Dark.png) |
 | Mark      | ![](./battlechain/dark/Battlechain%20Mark%20-%20Dark.png)        | ![](./battlechain/light/Battlechain%20Mark%20-%20Light.png)        | ![](./battlechain/color/Battlechain%20Mark%20-%20Color.png)                                                                                |
 | Wordmark  | ![](./battlechain/dark/Battlechain%20Wordmark%20-%20Dark.png)    | ![](./battlechain/light/Battlechain%20Wordmark%20-%20Light.png)    | N/A                                                                                                                                        |
+
+## Cygent
+
+|           | Dark Version                                             | Light Version                                              | Color Version |
+| --------- | -------------------------------------------------------- | ---------------------------------------------------------- | ------------- |
+| Full Logo | ![](./cygent/dark/Cygent%20Logo%20Full%20-%20Dark.png)   | ![](./cygent/light/Cygent%20Logo%20Full%20-%20Light.png)   | N/A           |
+| Mark      | ![](./cygent/dark/Cygent%20Mark%20-%20Dark.png)          | ![](./cygent/light/Cygent%20Mark%20-%20Light.png)          | N/A           |
 
 <p padding-top="20px" align="center">
 <a href="https://docs.cyfrin.io">Docs</a>
